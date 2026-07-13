@@ -1,4 +1,40 @@
-# Getting Started with Create React App
+# ⚖️ Lexara – AI Legal Intelligence Platform
+
+## 📌 About the Project
+Lexara is an AI-powered legal intelligence platform that simplifies legal document analysis using Large Language Models (LLMs). Users can upload legal documents to generate concise summaries, identify potential legal risks, and interact with an AI chatbot for document-specific queries. The platform is designed to improve accessibility and reduce the time required for legal document review. :contentReference[oaicite:0]{index=0}
+
+## ✨ Features
+- Legal document summarization
+- AI-powered legal chatbot
+- Risk assessment (Low, Medium, High)
+- PDF and DOCX document upload
+- FastAPI backend with React frontend
+- LLaMA-powered AI responses
+- User-friendly interface :contentReference[oaicite:1]{index=1}
+
+## 🛠️ Tech Stack
+- React.js
+- FastAPI
+- Python
+- LLaMA API
+- HTML
+- CSS
+- JavaScript
+
+<img width="1900" height="878" alt="Screenshot 2026-05-03 165208" src="https://github.com/user-attachments/assets/48a1ddb9-6489-4d21-9537-cfa50bb78355" />
+<img width="1896" height="873" alt="Screenshot 2026-05-12 201859" src="https://github.com/user-attachments/assets/3748bf3d-df39-42d6-89be-9a833befa60b" />
+<img width="1900" height="878" alt="Screenshot 2026-05-03 165208" src="https://github.com/user-attachments/assets/473ef7ef-1a5c-421d-942e-b0f4ce0babd6" />
+
+
+
+## 🚀 How to Run
+1. Clone the repository.
+2. Install the required dependencies.
+3. Start the backend and frontend servers.
+4. Open the application in your browser.
+
+## 👨‍💻 Author
+**M Siddique Ahmed Khan**# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
