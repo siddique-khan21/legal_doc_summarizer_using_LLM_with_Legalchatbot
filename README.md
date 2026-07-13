@@ -23,7 +23,9 @@ Lexara is an AI-powered legal intelligence platform that simplifies legal docume
 
 <img width="1900" height="878" alt="Screenshot 2026-05-03 165208" src="https://github.com/user-attachments/assets/48a1ddb9-6489-4d21-9537-cfa50bb78355" />
 <img width="1896" height="873" alt="Screenshot 2026-05-12 201859" src="https://github.com/user-attachments/assets/3748bf3d-df39-42d6-89be-9a833befa60b" />
-<img width="1900" height="878" alt="Screenshot 2026-05-03 165208" src="https://github.com/user-attachments/assets/473ef7ef-1a5c-421d-942e-b0f4ce0babd6" />
+<img width="1897" height="872" alt="Screenshot 2026-05-12 201813" src="https://github.com/user-attachments/assets/0929a45c-f582-4b86-9f62-4b93ef6f8d19" />
+<img width="1896" height="873" alt="Screenshot 2026-05-12 201859" src="https://github.com/user-attachments/assets/aa048dd7-4cfa-485c-8ea5-8cfcb40e73ea" />
+
 
 
 
